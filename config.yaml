@@ -4,7 +4,7 @@ username: None  # optional
 password: None  # optional
 
 # Repository location (remote or local)
-repo: https://github.com/medullan/mean
+repo: https://os-medullan-ci:OpenSource123@github.com/medullan/coverage-example
 
 # Repository login
 scm-username: None  # optional
