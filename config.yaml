@@ -11,7 +11,7 @@ scm-username: None  # optional
 scm-password: None  # optional
 
 # Job to use as a template for new jobs
-template: MeanJS_Example-Pipeline
+template: Coverage_Example-Pipeline
 
 # Character with which to replace '/' in ref names
 namesep: '-'
