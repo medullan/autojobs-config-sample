@@ -4,14 +4,14 @@ username: None  # optional
 password: None  # optional
 
 # Repository location (remote or local)
-repo: https://github.com/medullan/mean
+repo: https://github.com/organization/repository
 
 # Repository login
 scm-username: None  # optional
 scm-password: None  # optional
 
 # Job to use as a template for new jobs
-template: MeanJS_Example-Pipeline
+template: pipeline-template
 
 # Character with which to replace '/' in ref names
 namesep: '-'
