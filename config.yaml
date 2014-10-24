@@ -64,7 +64,6 @@ tag: 'throw-away-jobs'
 refs:
   - 'refs/heads/release/(.*)'
   - 'refs/heads/feature/(.*)'
-  - 'refs/heads/.*master'
   - 'refs/heads/.*-build'
 
 # If set to true, remove all jobs that were created by jenkins-autojobs
